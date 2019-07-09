@@ -4,6 +4,7 @@
 ```bash
 alias ds='docker stop $(docker ps -a -q)'
 alias dsr='docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)'
+alias dvr='docker volume rm $(docker volume ls -q)'
 ```
 
 ### Kubernetes:
