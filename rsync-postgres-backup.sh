@@ -11,7 +11,6 @@
     RSYNC_WITH=''
     SSH_PORT='22'
 
-
     ####
 
     export PGPASSWORD=${DATABSE_PASSWORD};
