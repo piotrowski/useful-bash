@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.11.1)
+    prettier (0.15.0)
+    sys-filesystem (1.2.0)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  prettier
+  sys-filesystem (= 1.2.0)
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   2.0.2

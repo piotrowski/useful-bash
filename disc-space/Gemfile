@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+ruby RUBY_VERSION
+
+gem "sys-filesystem", "1.2.0"
+gem 'prettier'
