@@ -15,6 +15,11 @@ alias kdf='kubectl delete -f'
 alias kga='kubectl get all'
 ```
 
+### Chef:
+```bash
+alias knifee='knife environment'
+```
+
 ### Other:
 ```bash
 alias pbcopy='xclip -selection clipboard'
